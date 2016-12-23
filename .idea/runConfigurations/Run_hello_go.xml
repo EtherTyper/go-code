@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="GoProject" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <filePath value="$PROJECT_DIR$/hello.go" />
+    <kind value="FILE" />
+    <method />
+  </configuration>
+</component>
